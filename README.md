@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am currently interested in different ways code can be visualized.<br><br>
-I mainly work with OCCT and .NET in my professional life and other tech stacks in my personal life to explore different tech stacks.<br><br>
+I mainly work with OCCT and .NET in my professional life and other tech stacks in my personal life to explore different visualisation techniques.<br><br>
 
 I am currently working on a timer app that would allow you to create multiple concurrent or sequential timers. [ConcurrentTimers](https://github.com/justme789/ConcurrentTimers/)
 
